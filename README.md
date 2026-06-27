@@ -2,3 +2,4 @@
 <h1> NUEVO ARCHIVO</h1>
 <p> Todos los trabajos estan reseñados en la pagina web del autor</p>
 <h2> ten presente las direcciones de correo</h2>
+<<input id="emailAddress" type="email" />
